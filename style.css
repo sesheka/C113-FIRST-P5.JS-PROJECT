@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/real-falling-snow-black-background-snowy-image-can-be-used-as-texture-different-types-projects-added-as-81889261.jpg");
+}
+h1 {
+    color: white;
+}
+#abc{
+    font-size: 20px;
+    background-color:white;
+    color:black;
+}
+canvas{
+    border-width: 50%;
+    border-color: white;
+}
